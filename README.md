@@ -17,6 +17,8 @@ QuickDBD-DiagramExport.png - ERD from QuickDBD
 
 Project Proposal.docx - Our original proposal for this project
 
+Postgresql_db_snapshot.png  - Snapshot of the postgresql database showing query results that combine data from all 3 tables.
+
 Folders:
 
 Data_for_ETL_project_raw - .csv data files prior to cleaning
