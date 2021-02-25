@@ -3,14 +3,14 @@
 
 
 CREATE TABLE "state_race" (
-    "Location" varchar   NOT NULL,
-    "White" float   NOT NULL,
-    "Black" float   NOT NULL,
-    "Hispanic" float   NOT NULL,
-    "Asian" float   NOT NULL,
-    "American_Indian/Alaska_Native" float   NOT NULL,
-    "Hawaiian/Other_Pacific_Islander" float   NOT NULL,
-    "Two_Or_More_Races" float   NOT NULL,
+    "state" varchar,
+    "White" float,
+    "Black" float,
+    "Hispanic" float,
+    "Asian" float,
+    "American_Indian/Alaska_Native" float,
+    "Hawaiian/Other_Pacific_Islander" float,
+    "Two_Or_More_Races" float,
     CONSTRAINT "pk_state_race" PRIMARY KEY (
         "Location"
      )
