@@ -6,6 +6,7 @@ using python, and archived in Postgresql. We made an ERD for the database using 
 database using SQL queries to make sure all tables could be joined correctly and queried independantly. 
 
 Files:
+
 ETL_project_report.docx - A technical report with more a more thorough explanation of what we did. 
 
 ETL_project_cleanup_notebook.ipynb - Our data cleanup notebook
